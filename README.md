@@ -19,6 +19,8 @@
 ![](https://camo.githubusercontent.com/8cc0003cb468836e5412bef3a3a220bb9dd8cca833b340dd8f6600af7336257f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7374796c65642d2d636f6d706f6e656e74732d677265656e3f7374796c653d666f722d7468652d6261646765)
 ![](https://camo.githubusercontent.com/709e211a1661cd63e675035bcba203faaa272d057887aee138e1c2d4f634c48b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4669676d612d726762283234322c2037382c203330293f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465)
 
-#### Мои работы:
+### Мои работы:
 
 React todo - список задач с авторизацией и регистрацией (React/Node + mongoDB) [Клиент](https://github.com/irzakhanov/react-todo)/[сервер](https://github.com/irzakhanov/react-todo-server)/[Демо](https://irzakhanov.github.io/react-todo/)
+
+Book finder - Приложение для поиск книг (Google books API) [Код](https://github.com/irzakhanov/book-finder)
