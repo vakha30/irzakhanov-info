@@ -24,3 +24,5 @@
 * React todo - список задач с авторизацией и регистрацией (React/Node + mongoDB) [Клиент](https://github.com/irzakhanov/react-todo) | [сервер](https://github.com/irzakhanov/react-todo-server) | [Демо](https://irzakhanov.github.io/react-todo/)
 
 * Book finder - Приложение для поиск книг (Google books API) [Код](https://github.com/irzakhanov/book-finder) | [Демо](https://irzakhanov.github.io/book-finder/)
+
+* Products table - Таблица изделий [Код](https://github.com/irzakhanov/products-table) | [Демо](https://irzakhanov.github.io/products-table)
