@@ -23,7 +23,7 @@
 
 * React todo - список задач с авторизацией и регистрацией (React/Node + mongoDB) [Клиент](https://github.com/irzakhanov/react-todo) | [сервер](https://github.com/irzakhanov/react-todo-server) | [Демо](https://irzakhanov.github.io/react-todo/)
 
-* Contacts admin - Приложение для хранения контактов [Код](https://github.com/irzakhanov/contacts-admin)
+* Contacts admin - Приложение для хранения контактов [Код и скрины](https://github.com/irzakhanov/contacts-admin)
 
 * Calendar events - Приложение Календарь событий [Код и скрины](https://github.com/irzakhanov/calendar-events)
 
