@@ -25,6 +25,6 @@
 
 * Book finder - Приложение для поиск книг (Google books API) [Код](https://github.com/irzakhanov/book-finder) | [Демо](https://irzakhanov.github.io/book-finder/)
 
-* Calendar events - Приложение Календарь событий [Код](https://github.com/irzakhanov/calendar-events)
+* Calendar events - Приложение Календарь событий [Код и скрины](https://github.com/irzakhanov/calendar-events)
 
-* Products table - Таблица изделий [Код и скрины](https://github.com/irzakhanov/products-table) | [Демо](https://irzakhanov.github.io/products-table)
+* Products table - Таблица изделий [Код](https://github.com/irzakhanov/products-table) | [Демо](https://irzakhanov.github.io/products-table)
