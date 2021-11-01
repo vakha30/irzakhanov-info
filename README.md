@@ -27,4 +27,4 @@
 
 * Calendar events - Приложение Календарь событий [Код](https://github.com/irzakhanov/calendar-events)
 
-* Products table - Таблица изделий [Код](https://github.com/irzakhanov/products-table) | [Демо](https://irzakhanov.github.io/products-table)
+* Products table - Таблица изделий [Код и скрины](https://github.com/irzakhanov/products-table) | [Демо](https://irzakhanov.github.io/products-table)
